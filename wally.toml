@@ -1,0 +1,8 @@
+[package]
+name = "caxseii/morphmodule"
+version = "1.0.0"
+license = "MIT License"
+authors = ["fungamer153"]
+description = "Ie_fishe's MorphModule forked for wally"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
